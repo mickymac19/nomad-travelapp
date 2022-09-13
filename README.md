@@ -7,20 +7,20 @@
 ![Screen Shot 2022-09-13 at 12 59 12](https://user-images.githubusercontent.com/57607248/189804606-068f2c1f-7cb5-40d8-9be8-fcc0a3ec142a.png)
 
 
-Nomad is a travel app guide that shows weather from all over the world 
+Nomad is a travel app guide that shows the weather from all over the world 
 it also gives you a suggestion where to eat. 
 
-This app was made using create-react-app 
-and other styling tools such as 
+This app was made using 
+react.js and other styling tools such as 
 
-Material-UI 
-Emotion-styled 
+- Material-UI 
+- Emotion-styled 
 
 I have also used 2 APIs from 
 
 OpenWeather and Foursquare 
 
 
-
+This app was made under 16 hours. 
 # nomad-travelapp
 # nomad-travelapp
